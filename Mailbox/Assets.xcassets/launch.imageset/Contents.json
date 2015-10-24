@@ -1,11 +1,6 @@
 {
   "images" : [
-    {
-      "idiom" : "universal",
-      "filename" : "launch-568h@2x.png",
-      "subtype" : "retina4",
-      "scale" : "2x"
-    }
+
   ],
   "info" : {
     "version" : 1,
